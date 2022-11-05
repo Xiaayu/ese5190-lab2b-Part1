@@ -1,4 +1,4 @@
-# Xiaayu-ese5190-lab2b-Part1
+# ese5190-lab2b-Part1
 
 ## Main parts code is showing below:
 
